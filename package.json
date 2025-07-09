@@ -1,0 +1,29 @@
+{
+  "name": "clase16",
+  "version": "1.0.0",
+  "description": "Práctoca de la clase 16 de ETH Kipu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonAndBri/Clase16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MonAndBri/Clase16/issues"
+  },
+  "homepage": "https://github.com/MonAndBri/Clase16#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "hardhat": "^2.25.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "ethers": "^6.15.0"
+  }
+}
